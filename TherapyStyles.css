@@ -1,1 +1,21 @@
+.navbar {
+	background-color: rgba(0, 0, 0, 0.0);
+}
 
+html {
+	background: url(img/Great_Wave_off_Kanagawa2.jpeg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.navbar-collapse {
+	justify-content: flex-end;
+}
+
+#bottomright {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
