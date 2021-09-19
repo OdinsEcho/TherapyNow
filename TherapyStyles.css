@@ -63,7 +63,7 @@ button::before {
 	content: '';
 	border-radius: 1000px;
 	min-width: calc(200px);
-	min-height: calc(180px);
+	min-height: calc(200px);
 	border: 6px solid #5b9cda;
 	box-shadow: 0 0 60px rgba(75, 142, 187, 0.64);
 	position: fixed;
